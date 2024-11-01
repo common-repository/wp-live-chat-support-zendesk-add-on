@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLC-ZENDESK\n"
+"POT-Creation-Date: 2015-10-19 12:39+0200\n"
+"PO-Revision-Date: 2015-10-19 12:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress38\\wp-content\\plugins\\wp-"
+"live-chat-support-zendesk-add-on\n"
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:86
+msgid "View support ticket"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:88
+msgid "Convert to Zendesk support ticket"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:109
+msgid "Creating ticket..."
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:110
+msgid "Ticket created"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:111
+msgid "Click to view"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:112
+#, php-format
+msgid ""
+"There was a problem creating the ticket. Please <a target='_BLANK' "
+"href='%s'>contact support</a>."
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:214
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:230
+#, php-format
+msgid "Chat transcript with %s (%s)"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:320
+msgid "Chat To Ticket Conversion Settings (Zendesk)"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:323
+msgid "Enable conversion:"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:332
+msgid "Zendesk API URL"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:337
+msgid "Example: https://yourcompany.zendesk.com/api/v2"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:342
+msgid "Zendesk User"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:347
+msgid "Example: john@doe.com"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:352
+msgid "Zendesk API Key"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:361
+msgid "Zendesk Default Assignee"
+msgstr ""
+
+#: C:\wamp\www\wordpress38\wp-content\plugins\wp-live-chat-support-zendesk-add-on/wp-live-chat-support-zendesk-add-on.php:366
+msgid "User ID. Can be left blank."
+msgstr ""
